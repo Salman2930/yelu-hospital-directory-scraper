@@ -38,8 +38,8 @@ The scraper exports structured hospital data into a CSV file.
 
 Sample dataset included:
 
-* First 100 hospital records
-* Extracted from first 5 pages
+* First 2737 hospital records
+* Extracted from first 150 pages
 
 ## Project Workflow
 
